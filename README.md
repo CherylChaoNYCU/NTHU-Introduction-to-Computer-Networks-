@@ -1,5 +1,5 @@
 # NTHU-Introduction-to-Computer-Networks-
-2021 winter
+2021 client-server connection: The guessing game
 
 
 1. Description
